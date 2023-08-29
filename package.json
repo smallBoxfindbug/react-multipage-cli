@@ -7,20 +7,12 @@
   },
   "bin": {
     "create-react-multipage-cli": "bin/index.js",
-		"popup": "bin/popup.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/smallBoxfindbug/blog.git"
+    "popup": "bin/popup.js"
   },
   "keywords": [],
   "author": "smallBox110528@163.com",
   "license": "ISC",
   "type": "module",
-  "bugs": {
-    "url": "https://github.com/smallBoxfindbug/blog/issues"
-  },
-  "homepage": "https://github.com/smallBoxfindbug/blog#readme",
   "dependencies": {
     "chalk": "^5.3.0",
     "ejs": "^3.1.9",
@@ -30,5 +22,13 @@
     "prettier": "^3.0.2"
   },
   "main": "index.js",
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallBoxfindbug/react-multipage-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smallBoxfindbug/react-multipage-cli/issues"
+  },
+  "homepage": "https://github.com/smallBoxfindbug/react-multipage-cli#readme"
 }

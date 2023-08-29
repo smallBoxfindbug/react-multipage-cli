@@ -41,7 +41,7 @@ const getGitRemote = () => {
         'clone',
         '-b',
         'master',
-        'https://gitee.com/HY_QIN/webpack-react-cli.git',
+        'https://github.com/smallBoxfindbug/react-multipage-cli.git',
       ], {
         cwd: templatesDirRootPath,
       }

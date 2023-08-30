@@ -1,6 +1,6 @@
 {
   "name": "react-multipage-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "this is custom webpack-react-cli",
   "scripts": {
     "test": "node ./bin/index.js"
@@ -9,7 +9,7 @@
     "create-react-multipage-cli": "bin/index.js",
     "popup": "bin/popup.js"
   },
-  "keywords": [],
+  "keywords": ["react", "cli", "multipage", "webpack", "react-multipage-cli"],
   "author": "smallBox110528@163.com",
   "license": "ISC",
   "type": "module",
